@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/foodlandingpage/static/css/main.31d6cfe0.css",
+    "main.js": "/foodlandingpage/static/js/main.e2de2fdd.js",
+    "index.html": "/foodlandingpage/index.html",
+    "main.e2de2fdd.js.map": "/foodlandingpage/static/js/main.e2de2fdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e2de2fdd.js"
+  ]
+}
